@@ -1,2 +1,6 @@
+require("plug-setup/airline-config")
 require("plug-setup/lsp-client-config")
 require("plug-setup/nvim-cmp-config")
+require("plug-setup/cmp-git-config")
+require("plug-setup/gitsigns-config")
+require("plug-setup/nerdtree-git-plugin-config")
